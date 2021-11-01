@@ -1,11 +1,10 @@
 # Projekta nosaukums
- Kalkulātors
+Tetris
 ## Apraksts
-	Kalkulātors kurš saņems ievbadītos datus un veiks visas funkcijas ,piemēram, reizināšana, dalīšana , saskaitīšana,atņemšana, kāpināsana , vilkšana no saknes un izvada atbildi 
+Spēle tetris kas būs vizuāla un to varēs spēlēt noteikumi tādi paši kā tetris
 ## Galvenās funkcijas
-	- Ievadīt tekstu
-	- Apstrādāt datus
-	- Izvadīt atbildi
+	- Spēlēt spēli
+	- Kustināt objektu
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library
